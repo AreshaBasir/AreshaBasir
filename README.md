@@ -31,7 +31,7 @@ because robots should listen *and* care, right? 💜
 
 ### 📫 Let’s Connect!
 - 💌 Email: areshabasirspriha@gmail.com
-- 🌐 Portfolio / Website (coming soon!)
+
 - 🫶 Always up for collabs on AI, HRI, or something beautifully human-techy
 
 ---
