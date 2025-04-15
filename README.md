@@ -1,6 +1,4 @@
-
-
-About Me
+## Hi, I'm Spriha 💜
 I'm an AI enthusiast with a spark for human-robot connection 🤖💬  
 Currently working on making conversations with robots *more satisfying and real* —  
 because robots should listen *and* care, right? 💜
