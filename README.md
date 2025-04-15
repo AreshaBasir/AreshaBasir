@@ -1,4 +1,9 @@
-## Hi there 👋 I'm Spriha ✨
+
+<h1 align="center"> I'm Spriha 💜</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE81FF&width=435&lines=AI+Researcher+in+the+making;Passionate+about+HRI+%26+Reinforcement+Learning;Building+smart+prosthetic+hands;Here+to+shine+as+Star+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
 I'm an AI enthusiast with a spark for human-robot connection 🤖💬  
 Currently working on making conversations with robots *more satisfying and real* —  
