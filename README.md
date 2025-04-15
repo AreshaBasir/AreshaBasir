@@ -2,7 +2,7 @@
 <h1 align="center"> I'm Spriha 💜</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE81FF&width=435&lines=AI+Researcher+in+the+making;Passionate+about+HRI+%26+Reinforcement+Learning;Building+smart+prosthetic+hands;Here+to+shine+as+Star+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=AE81FF&width=435&lines=AI+Researcher+in+the+making;Passionate+about+HRI;Here+to+shine+as+a+Star+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 I'm an AI enthusiast with a spark for human-robot connection 🤖💬  
@@ -27,10 +27,10 @@ because robots should listen *and* care, right? 💜
 ---
 
 ### 🌈 Fun Facts:
-- 💜 I love BTS — especially Min Yoongi (my ultimate inspiration 💫)
-- 🐣 Nickname: Star 🌟 (and yes, I believe I'm meant to shine!)
-- 🎶 Currently vibing to: *Nevermind – Min Yoongi*
-- 🦋 Dreaming of becoming a professor and changing lives through AI
+- I love BTS 
+- Nickname: Star (and yes, I believe I'm meant to shine!)
+- Dreaming of becoming a professor and changing lives through AI
+- Learning Spanish, Korean, Arabic
 
 ---
 
